@@ -1,20 +1,17 @@
-# new_api_project_2
+📡 new_api_project_2
 
-A new Flutter project.
+A Flutter project where APIs are integrated using both HTTP and DIO packages to enhance API handling with advanced features.
 
-## Getting Started
+🚀 Getting Started
 
-This project is a starting point for a Flutter application.
+This project demonstrates calling APIs using two powerful packages in Flutter: HTTP and DIO.
 
-A few resources to get you started if this is your first Flutter project:
+🔗 Key Features:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+HTTP Package: Simple and effective for basic API requests.
+DIO Package: Advanced API handling with interceptors, error handling, and more.
 
 
-https://github.com/user-attachments/assets/eff1f421-588e-45d8-ab57-db350e9ed603
+🌟 Screenshots
 
+<div align="center"> <img src="https://github.com/user-attachments/assets/eff1f421-588e-45d8-ab57-db350e9ed603" alt="API Call Example" width="300"/> <p>API Call Example</p> </div>
