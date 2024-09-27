@@ -12,6 +12,6 @@ HTTP Package: Simple and effective for basic API requests.
 DIO Package: Advanced API handling with interceptors, error handling, and more.
 
 
-🌟 Screenshots
+🌟 Demo
 
 <div align="center"> <img src="https://github.com/user-attachments/assets/eff1f421-588e-45d8-ab57-db350e9ed603" alt="API Call Example" width="300"/> <p>API Call Example</p> </div>
